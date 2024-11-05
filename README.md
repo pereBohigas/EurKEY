@@ -32,3 +32,4 @@ This project is licensed under the [GNU General Public License v3.0](https://www
 The EurKEY keyboard layout is copyright by Steffen Brüntjen and [licensed under the GNU General Public License v3.0](https://eurkey.steffen.bruentjen.eu/license.html).
 
 The use of the European emblem is in accordance with the agreement [2012/C 271/04](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42012Y0908(01)&qid=1530786690534&from=EN).
+
